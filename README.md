@@ -1,4 +1,4 @@
-# OLD-ID-CLONING
+# RUN
 pkg update
 
 pkg upgrade
