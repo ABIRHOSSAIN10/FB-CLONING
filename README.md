@@ -16,8 +16,8 @@ pip2 install requests
 pip2 install mechanize
 
 
-git clone https://github.com/ABIRHOSSAIN10/OLD-ID-CLONING
+git clone https://github.com/ABIRHOSSAIN10/FB-CLONING
 
-cd OLD-ID-CLONING
+cd FB-CLONING
 
 python2 oldid.py
